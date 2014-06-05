@@ -1,0 +1,393 @@
+TCorporate Avoidance
+v7
+r0
+t345403300.852531
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Info.plist" "Corporate Avoidance/Corporate Avoidance-Info.plist"
+cProcessPCH "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch.pth" "Corporate Avoidance/Corporate Avoidance-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/main.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate_AvoidanceAppDelegate.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/escWindow.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/caPreset.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance" normal x86_64
+cGenerateDSYMFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app.dSYM" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance"
+cCopyStringsFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/InfoPlist.strings" "Corporate Avoidance/en.lproj/InfoPlist.strings"
+cCpResource "build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/Credits.rtf" "Corporate Avoidance/en.lproj/Credits.rtf"
+cCompileXIB "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib"
+cCpResource "build/Release/Corporate Avoidance.app/Contents/Resources/Spins.icns" Spins.icns
+cCpResource "build/Release/Corporate Avoidance.app/Contents/Resources/C.A Icon.icns" "C.A Icon.icns"
+cTouch "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CAA74040000000000003430
+t1286239236
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/C.A Icon.icns
+c000000004EC6B47D0000000000051F10
+t1321645181
+s335632
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch
+c000000004EC58C2000000000000000A9
+t1321569312
+s169
+i<Cocoa/Cocoa.h>
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h
+c000000004EE638070000000000000B76
+t1323710471
+s2934
+i<Cocoa/Cocoa.h>
+i"escWindow.h"
+i"caPreset.h"
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m
+c000000004EE638070000000000004A0D
+t1323710471
+s18957
+i"Corporate_AvoidanceAppDelegate.h"
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/Credits.rtf
+c000000004EE637E20000000000000207
+t1323710434
+s519
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/InfoPlist.strings
+c000000004EC58C20000000000000002D
+t1321569312
+s45
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib
+c000000004EE555FA0000000000015B2D
+t1323652602
+s88877
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.h
+c000000004EE6380700000000000000F8
+t1323710471
+s248
+i<AppKit/AppKit.h>
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m
+c000000004EE63807000000000000020D
+t1323710471
+s525
+i"escWindow.h"
+i"Corporate_AvoidanceAppDelegate.h"
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m
+c000000004EE638070000000000000129
+t1323710471
+s297
+i<Cocoa/Cocoa.h>
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Spins.icns
+c000000004EC58B95000000000000297A
+t1321569173
+s10618
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate Avoidance.LinkFileList
+c000000004EE63823000000000000030B
+t1323710499
+s779
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate_AvoidanceAppDelegate.o
+t1323710500
+s121548
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/caPreset.o
+t1323710500
+s15396
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/escWindow.o
+t1323710500
+s15952
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/main.o
+t1323710500
+s2792
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app
+t1323710500
+s102
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app.dSYM
+t1323710500
+s102
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Info.plist
+t1323710499
+s1081
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance
+t1323710500
+s59656
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/PkgInfo
+t1323710499
+s8
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/C.A Icon.icns
+t1323710500
+s335632
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/Spins.icns
+t1323710500
+s10618
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/Credits.rtf
+t1323710500
+s519
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1323710500
+s92
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/MainMenu.nib
+t1323710500
+s22722
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.h
+c000000004EE6375100000000000001CD
+t1323710289
+s461
+i<Foundation/Foundation.h>
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m
+c000000004EE6380700000000000003B6
+t1323710471
+s950
+i"caPreset.h"
+
+N/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch.pth
+t1323710499
+s9097912
+
+NCorporate Avoidance/Corporate Avoidance-Info.plist
+c000000004EC6D85E0000000000000459
+t1321654366
+s1113
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies345403299#345403299#0(0"0(0#1#0"8613278592#0"0#
+
+CCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate_AvoidanceAppDelegate.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345403300.004655
+e345403300.407030
+r1
+xCompileC
+xbuild/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate_AvoidanceAppDelegate.o
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:341:16:{341:16-341:29}: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o     int roof = [files count];
+o                ^~~~~~~~~~~~~
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:390:117:{390:117-390:120}: warning: incompatible pointer types sending 'NSString *' to parameter of type 'NSDictionary *' [-pedantic]
+o         [[NSFileManager defaultManager] createDirectoryAtPath:savePath withIntermediateDirectories:false attributes:@"" error:nil];
+o                                                                                                                     ^~~
+oIn file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch:6:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:27:
+o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:106:129: note: passing argument to parameter 'attributes' here
+o - (BOOL)createDirectoryAtPath:(NSString *)path withIntermediateDirectories:(BOOL)createIntermediates attributes:(NSDictionary *)attributes error:(NSError **)error;
+o                                                                                                                                 ^
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:11:1: warning: incomplete implementation
+o @implementation Corporate_AvoidanceAppDelegate
+o ^
+oIn file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:9:
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h:82:1: note: method definition for 'takeScreen:' not found
+o - (IBAction)takeScreen:(id)sender;
+o ^
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h:91:1: note: method definition for 'runWindowed' not found
+o - (void) runWindowed;
+o ^
+o3 warnings generated.
+lSLF07#2@151"Compile /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403300#345403300#0(2644"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:341:16:{341:16-341:29}: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]     int roof = [files count];                ^~~~~~~~~~~~~/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:390:117:{390:117-390:120}: warning: incompatible pointer types sending 'NSString *' to parameter of type 'NSDictionary *' [-pedantic]         [[NSFileManager defaultManager] createDirectoryAtPath:savePath withIntermediateDirectories:false attributes:@"" error:nil];                                                                                                                     ^~~In file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch:6:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:27:/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:106:129: note: passing argument to parameter 'attributes' here - (BOOL)createDirectoryAtPath:(NSString *)path withIntermediateDirectories:(BOOL)createIntermediates attributes:(NSDictionary *)attributes error:(NSError **)error;                                                                                                                                 ^/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:11:1: warning: incomplete implementation @implementation Corporate_AvoidanceAppDelegate ^In file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:9:/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h:82:1: note: method definition for 'takeScreen:' not found - (IBAction)takeScreen:(id)sender; ^/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h:91:1: note: method definition for 'runWindowed' not found - (void) runWindowed; ^3 warnings generated.4(22@88"Implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int'345403300#0#287#0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#341#16#0#0#0"1(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#341#16#341#29#22@85"Incompatible pointer types sending 'NSString *' to parameter of type 'NSDictionary *'345403300#348#278#0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#390#117#0#0#28"incompatible pointer types *1(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#390#117#390#120#13@47"Passing argument to parameter 'attributes' here345403300#1287#165#4(7@124"In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:27:345403300#1162#125#0(6@98"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h299098500#27#0#27#0#0"0(7@114"In file included from /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:345403300#1047#115#0(6@88"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h108323304#12#0#12#0#0"0(7@166"In file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch:6:345403300#880#167#0(6@141"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch343262112#6#0#6#0#0"0(13@152"Passing argument to parameter 'attributes' here in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h345403300#18446744073709551615#0#0(6@101"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h299098500#106#129#0#0#0"0(6@101"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h299098500#106#129#0#0#0"0(22@25"Incomplete implementation345403300#1748#185#2(13@45"Method definition for 'takeScreen:' not found345403300#2153#202#2(7@168"In file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:9:345403300#18446744073709551615#0#0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#9#0#9#0#0"0(13@192"Method definition for 'takeScreen:' not found in /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h345403300#18446744073709551615#0#0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h345403271#82#1#0#0#0"0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h345403271#82#1#0#0#33"method definition for * not found0(13@45"Method definition for 'runWindowed' not found345403300#2394#202#2(7@168"In file included from /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m:9:345403300#18446744073709551615#0#0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#9#0#9#0#0"0(13@192"Method definition for 'runWindowed' not found in /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h345403300#18446744073709551615#0#0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h345403271#91#1#0#0#0"0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.h345403271#91#1#0#0#33"method definition for * not found0(6@143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m345403271#11#1#0#0#25"incomplete implementation0(0#0#143"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m8612167040#2470"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wmissing-prototypes -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-generated-files.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-own-target-headers.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-all-target-headers.hmap" -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-project-headers.hmap" "-F/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/include" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources/x86_64" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources" -include "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch" -c "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate_AvoidanceAppDelegate.m" -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate_AvoidanceAppDelegate.o"0#
+
+CCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/caPreset.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345403300.215600
+e345403300.287373
+r1
+xCompileC
+xbuild/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/caPreset.o
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@109"Compile /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m345403300#345403300#0(0"0(0#0#101"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m8612439872#2406"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wmissing-prototypes -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-generated-files.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-own-target-headers.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-all-target-headers.hmap" -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-project-headers.hmap" "-F/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/include" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources/x86_64" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources" -include "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch" -c "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/caPreset.m" -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/caPreset.o"0#
+
+CCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/escWindow.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345403300.135866
+e345403300.215477
+r1
+xCompileC
+xbuild/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/escWindow.o
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@130"Compile /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m345403300#345403300#0(0"0(0#0#122"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m8612061408#2428"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wmissing-prototypes -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-generated-files.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-own-target-headers.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-all-target-headers.hmap" -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-project-headers.hmap" "-F/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/include" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources/x86_64" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources" -include "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch" -c "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/escWindow.m" -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/escWindow.o"0#
+
+CCompileC "build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/main.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345403299.998000
+e345403300.135746
+r1
+xCompileC
+xbuild/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/main.o
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@125"Compile /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m345403299#345403300#0(0"0(0#0#117"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m8612699968#2418"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wmissing-prototypes -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-generated-files.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-own-target-headers.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-all-target-headers.hmap" -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-project-headers.hmap" "-F/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/include" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources/x86_64" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources" -include "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch" -c "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/main.m" -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib"
+s345403300.494213
+e345403300.848813
+r1
+xCompileXIB
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'fullScreenWindow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window' but 'fullScreenWindow' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuSaveAsPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Save As...)' but 'mnuSaveAsPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'screenCap:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Capture)' but 'screenCap:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'durationText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Combo Box (10 Minutes)' but 'durationText' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetWindow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Panel (Save Preset)' but 'presetWindow' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuShowPresetsPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Show Presets...)' but 'mnuShowPresetsPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'imageView' outlet of 'Corporate Avoidance App Delegate' is connected to 'Image Well' but 'imageView' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'fullscreenView' outlet of 'Corporate Avoidance App Delegate' is connected to 'Image View' but 'fullscreenView' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuOpenPresetPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Open Preset)' but 'mnuOpenPresetPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Text Field' but 'presetText' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'messageText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Static Text (Writing Video...)' but 'messageText' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuGoPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Go!)' but 'mnuGoPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'saveButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Text Field' but 'saveButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuSavePressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Save)' but 'mnuSavePressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'messageWin' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window' but 'messageWin' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'loadImage:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Load Image)' but 'loadImage:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuLoadImagePressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Load Image...)' but 'mnuLoadImagePressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'runWait:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Go)' but 'runWait:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetWIndow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Panel (Save Preset)' but 'presetWIndow' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'savePresetButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Save)' but 'savePresetButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'timerText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Combo Box (Rendering...)' but 'timerText' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'progressBar' outlet of 'Corporate Avoidance App Delegate' is connected to 'Horizontal Progress Indicator' but 'progressBar' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'cancelPresetButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Cancel)' but 'cancelPresetButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'waitText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Static Text (Estimated Time: About 4 minutes...)' but 'waitText' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'window' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window (Corporate Avoidance)' but 'window' is no longer defined on Corporate_AvoidanceAppDelegate.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'exitWait:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Cancel)' but 'exitWait:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuNewPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (New)' but 'mnuNewPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Pop Up Button' but 'presetPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.
+o/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetButton' outlet of 'Corporate Avoidance App Delegate' is connected to 'Pop Up Button' but 'presetButton' is no longer defined on Corporate_AvoidanceAppDelegate.
+lSLF07#2@54"CompileXIB "Corporate Avoidance/en.lproj/MainMenu.xib"345403300#345403300#0(9523"/* com.apple.ibtool.document.warnings *//Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'fullScreenWindow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window' but 'fullScreenWindow' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuSaveAsPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Save As...)' but 'mnuSaveAsPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'screenCap:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Capture)' but 'screenCap:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'durationText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Combo Box (10 Minutes)' but 'durationText' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetWindow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Panel (Save Preset)' but 'presetWindow' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuShowPresetsPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Show Presets...)' but 'mnuShowPresetsPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'imageView' outlet of 'Corporate Avoidance App Delegate' is connected to 'Image Well' but 'imageView' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'fullscreenView' outlet of 'Corporate Avoidance App Delegate' is connected to 'Image View' but 'fullscreenView' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuOpenPresetPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Open Preset)' but 'mnuOpenPresetPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Text Field' but 'presetText' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'messageText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Static Text (Writing Video...)' but 'messageText' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuGoPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Go!)' but 'mnuGoPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'saveButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Text Field' but 'saveButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuSavePressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Save)' but 'mnuSavePressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'messageWin' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window' but 'messageWin' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'loadImage:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Load Image)' but 'loadImage:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuLoadImagePressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Load Image...)' but 'mnuLoadImagePressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'runWait:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Go)' but 'runWait:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetWIndow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Panel (Save Preset)' but 'presetWIndow' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'savePresetButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Save)' but 'savePresetButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'timerText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Combo Box (Rendering...)' but 'timerText' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'progressBar' outlet of 'Corporate Avoidance App Delegate' is connected to 'Horizontal Progress Indicator' but 'progressBar' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'cancelPresetButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Cancel)' but 'cancelPresetButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'waitText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Static Text (Estimated Time: About 4 minutes...)' but 'waitText' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'window' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window (Corporate Avoidance)' but 'window' is no longer defined on Corporate_AvoidanceAppDelegate./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'exitWait:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Cancel)' but 'exitWait:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'mnuNewPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (New)' but 'mnuNewPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Pop Up Button' but 'presetPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'./Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib:494: warning: The 'presetButton' outlet of 'Corporate Avoidance App Delegate' is connected to 'Pop Up Button' but 'presetButton' is no longer defined on Corporate_AvoidanceAppDelegate.29(22@171"The 'fullScreenWindow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window' but 'fullScreenWindow' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@191"The 'mnuSaveAsPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Save As...)' but 'mnuSaveAsPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@176"The 'screenCap:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Capture)' but 'screenCap:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@179"The 'durationText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Combo Box (10 Minutes)' but 'durationText' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@176"The 'presetWindow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Panel (Save Preset)' but 'presetWindow' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@206"The 'mnuShowPresetsPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Show Presets...)' but 'mnuShowPresetsPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@161"The 'imageView' outlet of 'Corporate Avoidance App Delegate' is connected to 'Image Well' but 'imageView' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@171"The 'fullscreenView' outlet of 'Corporate Avoidance App Delegate' is connected to 'Image View' but 'fullscreenView' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@200"The 'mnuOpenPresetPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Open Preset)' but 'mnuOpenPresetPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@163"The 'presetText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Text Field' but 'presetText' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@185"The 'messageText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Static Text (Writing Video...)' but 'messageText' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@176"The 'mnuGoPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Go!)' but 'mnuGoPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@167"The 'saveButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Text Field' but 'saveButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@181"The 'mnuSavePressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Save)' but 'mnuSavePressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@159"The 'messageWin' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window' but 'messageWin' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@179"The 'loadImage:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Load Image)' but 'loadImage:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@200"The 'mnuLoadImagePressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (Load Image...)' but 'mnuLoadImagePressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@167"The 'runWait:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Go)' but 'runWait:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@176"The 'presetWIndow' outlet of 'Corporate Avoidance App Delegate' is connected to 'Panel (Save Preset)' but 'presetWIndow' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@187"The 'savePresetButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Save)' but 'savePresetButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@175"The 'timerText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Combo Box (Rendering...)' but 'timerText' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@184"The 'progressBar' outlet of 'Corporate Avoidance App Delegate' is connected to 'Horizontal Progress Indicator' but 'progressBar' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@193"The 'cancelPresetButton:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Cancel)' but 'cancelPresetButton:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@197"The 'waitText' outlet of 'Corporate Avoidance App Delegate' is connected to 'Static Text (Estimated Time: About 4 minutes...)' but 'waitText' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@173"The 'window' outlet of 'Corporate Avoidance App Delegate' is connected to 'Window (Corporate Avoidance)' but 'window' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@173"The 'exitWait:' action of 'Corporate Avoidance App Delegate' is connected to 'Push Button (Cancel)' but 'exitWait:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@178"The 'mnuNewPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Menu Item (New)' but 'mnuNewPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@176"The 'presetPressed:' action of 'Corporate Avoidance App Delegate' is connected to 'Pop Up Button' but 'presetPressed:' is no longer defined on 'Corporate_AvoidanceAppDelegate'.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(22@170"The 'presetButton' outlet of 'Corporate Avoidance App Delegate' is connected to 'Pop Up Button' but 'presetButton' is no longer defined on Corporate_AvoidanceAppDelegate.345403300#18446744073709551615#0#0(6@132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib345345402#494#0#494#0#0"0(0#0#132"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib8602867776#550"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/MainMenu.nib" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/InfoPlist.strings" "Corporate Avoidance/en.lproj/InfoPlist.strings"
+s345403300.491394
+e345403300.531699
+r1
+xCopyStringsFile
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/InfoPlist.strings
+xCorporate Avoidance/en.lproj/InfoPlist.strings
+lSLF07#2@51"Copy Corporate Avoidance/en.lproj/InfoPlist.strings345403300#345403300#0(0"0(0#0#137"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/InfoPlist.strings8603094912#499"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 "Corporate Avoidance/en.lproj/InfoPlist.strings" --outdir "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj"0#
+
+CCpResource "build/Release/Corporate Avoidance.app/Contents/Resources/C.A Icon.icns" "C.A Icon.icns"
+s345403300.532703
+e345403300.551556
+r1
+xCpResource
+xbuild/Release/Corporate Avoidance.app/Contents/Resources/C.A Icon.icns
+xC.A Icon.icns
+lSLF07#2@18"Copy C.A Icon.icns345403300#345403300#0(0"0(0#0#104"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/C.A Icon.icns8602574784#540"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/C.A Icon.icns" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources"0#
+
+CCpResource "build/Release/Corporate Avoidance.app/Contents/Resources/Spins.icns" Spins.icns
+s345403300.531800
+e345403300.551268
+r1
+xCpResource
+xbuild/Release/Corporate Avoidance.app/Contents/Resources/Spins.icns
+xSpins.icns
+lSLF07#2@15"Copy Spins.icns345403300#345403300#0(0"0(0#0#101"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Spins.icns8602688384#537"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Spins.icns" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources"0#
+
+CCpResource "build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/Credits.rtf" "Corporate Avoidance/en.lproj/Credits.rtf"
+s345403300.493303
+e345403300.501862
+r1
+xCpResource
+xbuild/Release/Corporate Avoidance.app/Contents/Resources/en.lproj/Credits.rtf
+xCorporate Avoidance/en.lproj/Credits.rtf
+lSLF07#2@45"Copy Corporate Avoidance/en.lproj/Credits.rtf345403300#345403300#0(0"0(0#0#131"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/Credits.rtf8602915200#576"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/en.lproj/Credits.rtf" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Resources/en.lproj"0#
+
+CGenerateDSYMFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app.dSYM" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance"
+s345403300.454568
+e345403300.491279
+r1
+xGenerateDSYMFile
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app.dSYM
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance
+lSLF07#2@136"GenerateDSYMFile "build/Release/Corporate Avoidance.app.dSYM" "build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance"345403300#345403300#0(0"0(0#0#163"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance8605626656#437"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    /Developer/usr/bin/dsymutil "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance" -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app.dSYM"0#
+
+CLd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance" normal x86_64
+s345403300.407133
+e345403300.454446
+r1
+xLd
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance
+xnormal
+xx86_64
+lSLF07#2@168"Link /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance345403300#345403300#0(0"0(0#0#0"8610160672#887"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" "-F/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" -filelist "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Objects-normal/x86_64/Corporate Avoidance.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -prebind -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/MacOS/Corporate Avoidance"0#
+
+CProcessInfoPlistFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Info.plist" "Corporate Avoidance/Corporate Avoidance-Info.plist"
+s345403299.056297
+e345403299.075344
+r1
+xProcessInfoPlistFile
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Info.plist
+xCorporate Avoidance/Corporate Avoidance-Info.plist
+lSLF07#2@58"Process Corporate Avoidance/Corporate Avoidance-Info.plist345403299#345403299#0(0"0(0#0#141"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Info.plist8386109804094058496#534"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    builtin-infoPlistUtility "Corporate Avoidance/Corporate Avoidance-Info.plist" -genpkginfo "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app/Contents/Info.plist"0#
+
+CProcessPCH "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch.pth" "Corporate Avoidance/Corporate Avoidance-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345403299.075492
+e345403299.997880
+r1
+xProcessPCH
+x/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch.pth
+xCorporate Avoidance/Corporate Avoidance-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@61"Precompile Corporate Avoidance/Corporate Avoidance-Prefix.pch345403299#345403299#0(0"0(0#0#141"/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch8611556256#2256"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wmissing-prototypes -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-generated-files.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-own-target-headers.hmap" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-all-target-headers.hmap" -iquote "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/Corporate Avoidance-project-headers.hmap" "-F/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/include" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources/x86_64" "-I/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Release/Corporate Avoidance.build/DerivedSources" -c "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch" -o "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-fqvssywehexisvfcpoqxwwohkoap/Corporate Avoidance-Prefix.pch.pth"0#
+
+CTouch "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app"
+s345403300.849012
+e345403300.852472
+r1
+xTouch
+x/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app
+lSLF07#2@134"Touch /Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app345403300#345403300#0(0"0(0#0#0"8605819008#253"    cd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance"    /usr/bin/touch -c "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Release/Corporate Avoidance.app"0#
+

@@ -1,0 +1,246 @@
+TCorporate AvoidanceTests
+v7
+r1
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c000000004C885CA00000000000000E25
+t1284005024
+s3621
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c000000004C885CA00000000000000701
+t1284005024
+s1793
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestCase.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c000000004C885CA0000000000000084C
+t1284005024
+s2124
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c000000004C885CA0000000000000167B
+t1284005024
+s5755
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase_Macros.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c000000004C885CA00000000000000860
+t1284005024
+s2144
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c000000004C885CA00000000000007F41
+t1284005024
+s32577
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c000000004C885CA00000000000000947
+t1284005024
+s2375
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c000000004C885CA000000000000006F0
+t1284005024
+s1776
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c000000004C885CA000000000000006D0
+t1284005024
+s1744
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c000000004C885CA000000000000009CF
+t1284005024
+s2511
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c000000004C885CA00000000000000958
+t1284005024
+s2392
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c000000004C885CA00000000000000A79
+t1284005024
+s2681
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c000000004C885CA00000000000000CCF
+t1284005024
+s3279
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c000000004C885CA000000000000007D3
+t1284005024
+s2003
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004C885CA000000000000008A5
+t1284005024
+s2213
+i<SenTestingKit/SenTestDefines.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<SenTestingKit/SenTestSuite.h>
+i<SenTestingKit/SenTestObserver.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+i<SenTestingKit/SenTestLog.h>
+i<SenTestingKit/SenTestDistributedNotifier.h>
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestSuiteRun.h>
+i<SenTestingKit/SenTestCaseRun.h>
+i<SenTestingKit/SenInterfaceTestCase.h>
+i<SenTestingKit/SenTestProbe.h>
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c000000004C885CA00000000000000C37
+t1284005024
+s3127
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c000000004C885CA70000000000044CA0
+t1284005031
+s281760
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CAA74040000000000003430
+t1286239236
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004C23AA050000000000000EDE
+t1277405701
+s3806
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate Avoidance/Corporate Avoidance-Prefix.pch
+c000000004EC58C2000000000000000A9
+t1321569312
+s169
+i<Cocoa/Cocoa.h>
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate AvoidanceTests/Corporate_AvoidanceTests.h
+c000000004EE63807000000000000012C
+t1323710471
+s300
+i<SenTestingKit/SenTestingKit.h>
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate AvoidanceTests/Corporate_AvoidanceTests.m
+c000000004EE638070000000000000219
+t1323710471
+s537
+i"Corporate_AvoidanceTests.h"
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate AvoidanceTests/en.lproj/InfoPlist.strings
+c000000004EC58C21000000000000002D
+t1321569313
+s45
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Debug/Corporate AvoidanceTests.build/Objects-normal/x86_64/Corporate AvoidanceTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Debug/Corporate AvoidanceTests.build/Objects-normal/x86_64/Corporate_AvoidanceTests.o
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Debug/Corporate AvoidanceTests.build/Script-1ABE66341475C3A10006FB7F.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/Info.plist
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/MacOS/Corporate AvoidanceTests
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/Resources/Corporate_AvoidanceTests.h
+t2
+s0
+
+N/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-etnrajhqlztprpgweyeosfzyeglk/Corporate Avoidance-Prefix.pch.pth
+t2
+s0
+
+NCorporate AvoidanceTests/Corporate AvoidanceTests-Info.plist
+c000000004EC58C2100000000000002AD
+t1321569313
+s685
+
+CCompileC "build/Corporate Avoidance.build/Debug/Corporate AvoidanceTests.build/Objects-normal/x86_64/Corporate_AvoidanceTests.o" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/Corporate AvoidanceTests/Corporate_AvoidanceTests.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/Resources/en.lproj/InfoPlist.strings" "Corporate AvoidanceTests/en.lproj/InfoPlist.strings"
+r0
+
+CCpResource "build/Debug/Corporate AvoidanceTests.octest/Contents/Resources/Corporate_AvoidanceTests.h" "Corporate AvoidanceTests/Corporate_AvoidanceTests.h"
+r0
+
+CLd "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/MacOS/Corporate AvoidanceTests" normal x86_64
+r0
+
+CPhaseScriptExecution "Run Script" "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Corporate Avoidance.build/Debug/Corporate AvoidanceTests.build/Script-1ABE66341475C3A10006FB7F.sh"
+r0
+
+CProcessInfoPlistFile "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest/Contents/Info.plist" "Corporate AvoidanceTests/Corporate AvoidanceTests-Info.plist"
+r0
+
+CProcessPCH "/var/folders/bb/bb49yTaUEDWlYEtb3fsN-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Corporate Avoidance-Prefix-etnrajhqlztprpgweyeosfzyeglk/Corporate Avoidance-Prefix.pch.pth" "Corporate Avoidance/Corporate Avoidance-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch "/Volumes/OS_OX/Users/splnlss/Documents/splnlss.com/corporate avoidance/Corporate Avoidance/build/Debug/Corporate AvoidanceTests.octest"
+r0
+
